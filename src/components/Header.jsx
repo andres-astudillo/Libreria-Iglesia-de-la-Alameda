@@ -29,7 +29,6 @@ export const Header = ({
 	return (
 		<header>
 			<h1>Librería de la Iglesia de la Alameda</h1>
-			<img src="" alt="" />
 
 			<div className='container-icon'>
 				<div
